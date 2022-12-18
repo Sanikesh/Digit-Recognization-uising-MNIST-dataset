@@ -1,1 +1,1 @@
-# Digit-Recognization-uising-MNIST-dataset-
+# Digit-Recognization-uising-MNIST-dataset
